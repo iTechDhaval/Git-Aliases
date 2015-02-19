@@ -42,3 +42,8 @@ undo = reset HEAD~1
 
 # change last commit message
 recommit = commit --amend
+
+# few more daily usable alias
+co = checkout
+ci = commit
+br = branch
